@@ -1,0 +1,24 @@
+# Source (TypeScript)
+src/
+
+# Tests
+tests/
+*.test.ts
+vitest.config.ts
+coverage/
+
+# Benchmarks
+benchmarks/
+
+# Config files
+tsconfig.json
+.gitignore
+.eslintrc*
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.log
+.DS_Store
