@@ -80,6 +80,12 @@ const restored = decode(slim);
 
 **Trade-off**: You pay in CPU, you save in tokens/storage. For LLM workloads, token savings far outweigh the CPU cost.
 
+## Video Tutorial
+
+[![SLIM Protocol Tutorial](https://img.youtube.com/vi/GQj-pSUM2iA/maxresdefault.jpg)](https://www.youtube.com/watch?v=GQj-pSUM2iA)
+
+*Click the image to watch the tutorial on YouTube*
+
 ## API Reference
 
 ### encode(data, options?)
